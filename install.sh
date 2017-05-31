@@ -7,7 +7,7 @@
 ###### Variables
 
 dir=~/dotfiles
-olddir=~/dotfile_old
+olddir=~/dotfiles_old
 files="bash_profile gitconfig ssh viminfo zshrc"
 
 # Create dotfiles in homedir
